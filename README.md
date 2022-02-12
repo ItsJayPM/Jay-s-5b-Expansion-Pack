@@ -1,2 +1,2 @@
-# Guy's 5b Expansion Pack
-The best expansion pack for 5b.
+# Jay's 5b Expansion Pack
+A modded version of 5b with new content for level creators and players alike.
